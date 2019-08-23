@@ -1,3 +1,7 @@
-header {
-  background-position: center top;
+.page-title {
+  text-align: center;
+}
+
+.address-block {
+  text-align: center;
 }
