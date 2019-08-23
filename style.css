@@ -1,11 +1,8 @@
-p {
-  color: red;
-}
-
 .page-title {
   text-align: center;
 }
 
 .address-block {
   text-align: center;
+  margin: 0;
 }
