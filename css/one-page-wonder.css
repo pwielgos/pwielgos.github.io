@@ -20,14 +20,14 @@ h6 {
 
 .btn-xl {
   text-transform: uppercase;
-  padding: 1.5rem 3rem;
-  font-size: 0.9rem;
-  font-weight: 700;
+  padding: 1.2rem 2.8rem;
+  font-size: 1.2rem;
+  font-weight: 950;
   letter-spacing: 0.1rem;
 }
 
 .bg-black {
-  background-color: #000 !important;
+  background-color: lightgray !important;
 }
 
 .rounded-pill {
@@ -59,7 +59,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #d2ffe9 0%, #ffd8d2 100%);
+  background: linear-gradient(0deg, #d493ff 0%, #94ffdf 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -83,7 +83,7 @@ header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
   border-radius: 100%;
-  background: linear-gradient(0deg, #ffd8d2 0%, #ff6a00 100%);
+  background: linear-gradient(0deg, #94ffdf 0%, #d493ff 100%);
 }
 
 header.masthead .bg-circle-1 {
@@ -128,17 +128,17 @@ header.masthead .bg-circle-4 {
 }
 
 .bg-primary {
-  background-color: #ffd8d2 !important;
+  background-color: #94ffdf !important;
 }
 
 .btn-primary {
-  background-color: #ffd8d2;
-  border-color: #ffd8d2;
+  background-color: #94ffdf;
+  border-color: #94ffdf;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #ffd8d2 !important;
-  border-color: #ffd8d2 !important;
+  background-color: #74c8af !important;
+  border-color: #74c8af !important;
 }
 
 .btn-primary:focus {
